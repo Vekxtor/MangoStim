@@ -1,0 +1,8 @@
+body{background: linear-gradient(120deg, #ad03fc, #9600db, #7300a8);}
+.corpo
+{
+  background: yellow;
+  position: relative;
+  padding: 10;
+  margin-top: 10%; 
+}
